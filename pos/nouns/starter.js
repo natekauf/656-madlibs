@@ -2,5 +2,15 @@
 module.exports.nouns = [
   'man',
   'bear',
-  'pig'
+  'pig',
+  'sand',
+  'crustacean',
+  'dimentia',
+  'trunk',
+  'fairy',
+  'fortitude',
+  'pregnancy',
+  'echelon',
+  'crayon',
+  'perfidy'
 ];
